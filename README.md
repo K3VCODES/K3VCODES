@@ -1,9 +1,9 @@
 <h1 align="center">Yo 👋, I'm Kevin Peoples</h1>
-<h3 align="center">Product-Minded Engineer | Creative Technologist | Builder from Atlanta, GA 🏙️</h3>
+<h3 align="center">PM + SWE | Creative Technologist | Builder from Atlanta, GA 🏙️</h3>
 
 <p align="center">
 💡 I turn ideas into scalable products — blending design, data, and storytelling.<br>
-🎓 CS @ Georgia State University (Grad '25) · Product Intern @ Microsoft, Oracle, & Marmon<br>
+🎓 CS @ Georgia State University (Dec '25) · Product Intern @ Microsoft, Oracle, & Marmon<br>
 🚀 Co-Founder of <b>Product101</b> — empowering 100+ students to break into Product Management.
 </p>
 
@@ -32,5 +32,5 @@ Currently, I’m focused on:
 ---
 
 <p align="center">
-✨ “Where code meets culture — and ideas become impact.” ✨  
+✨ “Where code meets culture and ideas become impact.” ✨  
 </p>
